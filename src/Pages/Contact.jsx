@@ -76,10 +76,10 @@ const ContactPage = () => {
               <h3 className="text-xl font-bold text-white mb-2">Email Us</h3>
               <p className="text-slate-400 text-sm mb-6">For general inquiries and support</p>
               <a 
-                href="mailto:info@cpvmsoftwaresolutions.com" 
+                href="mailto:info@cpvmsoftware.in" 
                 className="text-lg font-bold text-white hover:text-teal-400 transition-colors border-b-2 border-teal-500/30 pb-1"
               >
-                info@cpvmsoftwaresolutions.com
+                info@cpvmsoftware.in
               </a>
             </div>
 
